@@ -1,0 +1,6 @@
+mkdir carrinho-de-compras
+cd carrinho-de-compras
+mkdir backend
+cd backend
+npm init -y
+npm install express mongoose bcrypt jsonwebtoken dotenv cors axios
